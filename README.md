@@ -1,6 +1,6 @@
 # Bootcamp Python
 
-![42 Logo](https://upload.wikimedia.org/wikipedia/commons/5/55/42_School_logo.png)  
+![42 Logo](https://logodix.com/logo/2137219.png)  
 
 🚀 One week to learn Python for Machine Learning  
 
