@@ -1,19 +1,13 @@
 # Bootcamp Python
 
+![42 Logo](https://upload.wikimedia.org/wikipedia/commons/5/55/42_School_logo.png)  
+
 🚀 One week to learn Python for Machine Learning  
 
 This project is a **Python programming and Machine Learning bootcamp** created by [42 AI](https://github.com/42-AI).  
 No prior Python or ML experience is required!  
 
 Your mission: learn the essential knowledge for **Machine Learning, Data Science, and Statistics** in just **7 days**.  
-
----
-
-## 📚 Table of Contents
-- [Download](#download)
-- [Curriculum](#curriculum)
-- [Acknowledgements](#acknowledgements)
-- [Contributors](#contributors)
 
 ---
 
@@ -26,48 +20,16 @@ You can download all module PDF files from the official release page:
 ## 📘 Curriculum
 
 ### Module00 – Basics 1 – Eleven Commandments
-Let’s get started with the Python language! 🐍  
-- Basic setup  
-- Variables & types  
-- Functions  
-
----
+Let's get started with the Python language! 🐍  
+Basic setup, variables, types, functions, ...
 
 ### Module01 – Basics 2
-Get acquainted with **object-oriented programming** and more.  
-- Objects & classes  
-- Casting  
-- Inheritance  
-- Built-in functions  
-- Generators  
-- Constructors & iterators  
-
----
+Get acquainted with object-oriented programming and much more.  
+Objects, cast, inheritance, built-in functions, generator, constructors, iterator, ...
 
 ### Module02 – Basics 3
-Continue practicing with **advanced Python programming exercises**.  
-- Decorators  
-- Multiprocessing  
-- Lambda functions  
-- Building packages  
-
----
-
-### Module03 – NumPy
-Learn how to use the **NumPy library**, manipulate multidimensional arrays, and perform matrix operations.  
-- NumPy arrays  
-- Slicing & stacking  
-- Dimensions  
-- Broadcasting  
-- Normalization  
-
----
-
-### Module04 – Pandas
-Work with the **Pandas library** to manipulate datasets.  
-- DataFrames  
-- Data cleaning & wrangling  
-- Analysis & exploration  
+Continue practicing with more advanced Python programming exercises.  
+Decorators, multiprocessing, lambda, build package, ...
 
 ---
 
